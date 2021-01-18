@@ -409,8 +409,9 @@ INSERT INTO statistics (class_id, average) SELECT class_id, AVG(score) FROM stud
 `$ pip3 install PyMySQL   `
 
 {% comment %}
-Might you have an include in your theme? Why not try it here!
+
 {% include my-themes-great-include.html %}
+
 {% endcomment %}
 
 
