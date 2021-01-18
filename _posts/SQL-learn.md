@@ -1,3 +1,8 @@
+---
+layout: post
+
+---
+
 ## 英文教程
 
 ##### [How to Load the Sample Database into MySQL Server](https://www.mysqltutorial.org/how-to-load-sample-database-into-mysql-database-server.aspx)
@@ -402,6 +407,12 @@ INSERT INTO statistics (class_id, average) SELECT class_id, AVG(score) FROM stud
 ## Python3 MySQL 数据库连接 - PyMySQL 驱动
 
 `$ pip3 install PyMySQL   `
+
+{% comment %}
+Might you have an include in your theme? Why not try it here!
+{% include my-themes-great-include.html %}
+{% endcomment %}
+
 
 
 
