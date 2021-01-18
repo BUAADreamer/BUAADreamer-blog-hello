@@ -1,6 +1,7 @@
 title: BUAA-Dreamer'Blog 
 description: This is the personal blog of BUAA-Dreamer.
 show_downloads: false
+excerpt_description: true
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://buaadreamer.github.io" # change this to the base hostname & protocol for your site
